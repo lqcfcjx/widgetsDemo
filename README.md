@@ -1,2 +1,2 @@
 # widgetsDemo
-Qt常用自定义控件
+Qt常用自定义控件，其中lqcfcjx项目是打包自定义控件为designers的dll实现，ysyyrps项目为dll中各个子项目。新添加的控件在ysyyrps项目中，编译lqcfcjx项目可以得到dll文件。
